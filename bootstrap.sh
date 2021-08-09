@@ -2,7 +2,7 @@
 
 # Move dotfiles to user's home folder
 echo 'Moving dotfiles'
-cp -r dotfiles/.  test-home-folder/
+cp -r dotfiles/  test-home-folder/
 # Move dotfiles
 echo "Moving dotfiles completed."
 
