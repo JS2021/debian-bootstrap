@@ -1,6 +1,4 @@
 #!/bin/sh
-
-#echo "Running: sudo apt update && sudo apt upgrade -y"
-#sudo apt-get update && sudo apt-get install git wget
-
-sudo 
+./configs/move-configs.sh
+./dotfiles/move-dotfiles.sh
+./scripts/move-scripts.sh
