@@ -1,6 +1,5 @@
-notes/
-test-home-folder/
-test.sh
-workspace.code-workspace
+/notes/
+/test-home-folder/
+/test.sh
 bootstrap.sh
-
+workspace.code-workspace
