@@ -7,5 +7,5 @@ dpkg-query -W -f=$format wget || sudo apt-get install wget
 
 # Move dotfiles to user's home folder
 echo 'Moving dotfiles...'
-cp -r dotfiles/  test-home-folder/
+cp -r dotfiles/  ~/
 echo 'Moving dotfiles completed.'
