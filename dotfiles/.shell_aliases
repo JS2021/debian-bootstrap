@@ -1,2 +1,2 @@
 alias upgrade='echo "Running: sudo apt update && sudo apt upgrade -y"; sudo apt update && sudo apt upgrade -y'
-alias vpn='sudo openconnect remote.healthaxis.biz --authgroup="Healthaxis Power Users" --user="jstout"'
+
