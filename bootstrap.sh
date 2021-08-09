@@ -1,5 +1,6 @@
 #!/bin/sh
 
+sudo apt-get install -y git
 # Move dotfiles to user's home folder
 echo 'Moving dotfiles'
 cp -r dotfiles/  test-home-folder/
